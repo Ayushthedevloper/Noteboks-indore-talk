@@ -1,1 +1,1 @@
-# Notebboks-indore-talk
+# Notebooks for indore talks
